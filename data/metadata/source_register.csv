@@ -1,0 +1,3 @@
+dataset_name,platform,repository,source_url,license,language,record_count,fields,limitations
+FarmerChat Nigeria,Hugging Face,DigiGreen/farmerchat-queries,https://huggingface.co/datasets/DigiGreen/farmerchat-queries,CC BY 4.0,English,11541,"crop, user_country, user_geo_level2, user_geo_level3, query_year_month, query, response",AI-generated responses; questions rephrased by an intent-classification model; crop field is generic.
+Agronomy QA Pairs,Hugging Face,flamiinngo/agronomy-qa-agriculture,https://huggingface.co/datasets/flamiinngo/agronomy-qa-agriculture,Apache 2.0,English,1914,"question, answer",Indian regional bias; answers are not individually verified by an agronomist.

@@ -1,0 +1,9 @@
+,crop_cultivation,disease_management,fertilizer_application,harvesting,irrigation,out_of_scope,pest_management,soil_management
+crop_cultivation,0,1,1,0,0,1,0,0
+disease_management,0,8,0,0,0,0,0,0
+fertilizer_application,0,0,6,0,0,1,0,1
+harvesting,0,0,0,6,0,0,0,0
+irrigation,0,0,0,2,4,0,0,1
+out_of_scope,0,1,0,1,0,13,0,0
+pest_management,0,0,0,0,0,0,5,0
+soil_management,1,0,0,0,0,0,0,8

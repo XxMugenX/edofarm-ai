@@ -1,0 +1,118 @@
+{
+    "model_name": "EdoFarm AI Intent Classifier",
+    "model_version": "1.0.0",
+    "model_status": "experimental_baseline",
+    "created_date": "2026-11-21",
+    "task": "Agricultural query intent classification",
+    "supported_intents": [
+        "crop_cultivation",
+        "disease_management",
+        "fertilizer_application",
+        "harvesting",
+        "irrigation",
+        "out_of_scope",
+        "pest_management",
+        "soil_management"
+    ],
+    "architecture": {
+        "training_strategy": "bilingual",
+        "feature_extraction": [
+            "word_level_tfidf",
+            "character_level_tfidf"
+        ],
+        "word_ngrams": [
+            1,
+            2
+        ],
+        "character_ngrams": [
+            2,
+            5
+        ],
+        "word_max_features": 20000,
+        "character_max_features": 30000,
+        "classifier": "LogisticRegression",
+        "class_weight": "balanced",
+        "max_iter": 3000,
+        "C": 1.0,
+        "random_state": 42
+    },
+    "training_data": {
+        "language_examples": 392,
+        "underlying_questions": 196,
+        "english_examples": 196,
+        "edo_examples": 196,
+        "source_file": "classifier_bilingual_train_provisional_v1.csv"
+    },
+    "validation_data": {
+        "underlying_questions": 49,
+        "language_examples": 98,
+        "results": [
+            {
+                "training_strategy": "bilingual",
+                "feature_representation": "word_character_combined",
+                "evaluation_language": "edo_bini",
+                "training_examples": 392,
+                "validation_examples": 49,
+                "accuracy": 0.8163265306122449,
+                "precision_macro": 0.725,
+                "recall_macro": 0.775595238095238,
+                "f1_macro": 0.736431623931624,
+                "f1_weighted": 0.7896040467469039
+            },
+            {
+                "training_strategy": "bilingual",
+                "feature_representation": "word_character_combined",
+                "evaluation_language": "english",
+                "training_examples": 392,
+                "validation_examples": 49,
+                "accuracy": 0.8367346938775511,
+                "precision_macro": 0.877827380952381,
+                "recall_macro": 0.8101190476190476,
+                "f1_macro": 0.8186965811965812,
+                "f1_weighted": 0.8295656724228153
+            }
+        ]
+    },
+    "test_data": {
+        "underlying_questions": 61,
+        "language_examples": 122,
+        "results": [
+            {
+                "model": "bilingual_word_character",
+                "evaluation_language": "english",
+                "test_examples": 61,
+                "accuracy": 0.7377049180327869,
+                "precision_macro": 0.68078314659197,
+                "recall_macro": 0.6955853174603175,
+                "f1_macro": 0.6686832264957265,
+                "f1_weighted": 0.7121286955303349
+            },
+            {
+                "model": "bilingual_word_character",
+                "evaluation_language": "edo_bini",
+                "test_examples": 61,
+                "accuracy": 0.819672131147541,
+                "precision_macro": 0.7488095238095238,
+                "recall_macro": 0.7596230158730158,
+                "f1_macro": 0.7406166932482722,
+                "f1_weighted": 0.8029666814826435
+            }
+        ]
+    },
+    "translation_status": {
+        "edo_translations": "machine_generated_provisional",
+        "human_translation_review": "pending",
+        "native_speaker_validation": "not_performed"
+    },
+    "limitations": [
+        "Small dataset with only 196 underlying training questions.",
+        "Test evaluation contains 61 underlying questions.",
+        "Edo test questions are machine translations.",
+        "No independent validation by Edo speakers has been performed.",
+        "Crop cultivation achieved zero F1 on both test languages.",
+        "English test macro F1 is lower than English validation macro F1.",
+        "Model probabilities have not been calibrated.",
+        "Agricultural answer accuracy is not established by the classifier."
+    ],
+    "intended_use": "Experimental intent classification for the EdoFarm AI crop-production advisory prototype."
+}

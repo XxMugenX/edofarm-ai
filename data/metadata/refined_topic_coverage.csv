@@ -1,0 +1,17 @@
+dataset,category,matching_questions
+FarmerChat Nigeria,crop_cultivation,2816
+FarmerChat Nigeria,pest_management,2107
+FarmerChat Nigeria,disease_management,731
+FarmerChat Nigeria,soil_management,513
+FarmerChat Nigeria,irrigation,1342
+FarmerChat Nigeria,fertilizer_application,1848
+FarmerChat Nigeria,harvesting,372
+FarmerChat Nigeria,unmatched_by_keywords,3211
+Agronomy QA,crop_cultivation,350
+Agronomy QA,pest_management,135
+Agronomy QA,disease_management,469
+Agronomy QA,soil_management,151
+Agronomy QA,irrigation,106
+Agronomy QA,fertilizer_application,110
+Agronomy QA,harvesting,98
+Agronomy QA,unmatched_by_keywords,686

@@ -1,0 +1,5 @@
+document_id,document_title,page_count,total_characters,low_text_pages,extracted_pages,sha256,extraction_status
+DOC_NIHORT_001,Tomato Production Guide 2023,7,0,7,7,8cf287af09aa141b7d76d20665741f135597c86b9177ce70ca7e5ffe2d344d79,completed_with_review_flags
+DOC_NIHORT_002,Guide to Effective Post-harvest Handling and Processing of Tomato,14,0,14,14,6b67cf2c872fe52218ec0a2fbabbcfcf69c96bd25af472c61d108bc27d6a9000,completed_with_review_flags
+DOC_NIHORT_003,Amaranth Production Guide,4,6096,0,4,66e89c21c30aa3a570f765f7eceb406040d04ad790eb12d2f0ecf92f39e985b5,completed
+DOC_NIHORT_004,Fluted Pumpkin (Ugu) Production Guide,10,0,10,10,c0237fb135ee8e0f5cb031d8b546c74d268ef898cb7ce4c2eecbff34c057d262,completed_with_review_flags

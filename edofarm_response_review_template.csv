@@ -1,0 +1,3 @@
+question,requested_language,predicted_intent,generated_response,bini_speaker_review,agricultural_expert_review,corrected_response,review_notes
+I want to plant maize. What should I consider before planting?,English,out_of_scope,,not_reviewed,not_reviewed,,
+What can I do to improve my soil before planting maize?,Edo (Bini),soil_management,,not_reviewed,not_reviewed,,

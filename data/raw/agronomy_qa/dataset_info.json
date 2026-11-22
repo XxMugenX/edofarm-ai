@@ -1,0 +1,36 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "agronomy-qa-agriculture",
+  "dataset_size": 563178,
+  "description": "",
+  "download_size": 557067,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1120245,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 563178,
+      "num_examples": 1914,
+      "dataset_name": "agronomy-qa-agriculture"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

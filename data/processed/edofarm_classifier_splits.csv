@@ -1,0 +1,307 @@
+﻿record_id,question,primary_intent,split_group_id,near_duplicate_group,source_dataset,review_decision,answer_quality,split
+AQA_00027,why is Integrated Pest Management used?,pest_management,REC_AQA_00027,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00031,What is the best way to store harvested wheat to prevent spoilage?,harvesting,REC_AQA_00031,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00045,How should the soil be prepared before planting beans?,crop_cultivation,REC_AQA_00045,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00061,how can pest and diseases be managed in maize plants?,pest_management,REC_AQA_00061,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00062,When is the ideal time to harvest maize?,harvesting,REC_AQA_00062,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00087,What are the symptoms of cassava mosaic,disease_management,REC_AQA_00087,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00118,Why are pigs so dirty?,out_of_scope,REC_AQA_00118,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00123,Do cows cause global warming?,out_of_scope,REC_AQA_00123,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00136,what is animal welfare?,out_of_scope,REC_AQA_00136,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00146,what processes are involved during harvest phase of Food Supply Continuum,harvesting,REC_AQA_00146,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00252,what is animal husbandry?,out_of_scope,REC_AQA_00252,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00259,Name cultural techniques for managing crop nutrients use.,fertilizer_application,REC_AQA_00259,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00265,what are principal factors of soil quality.,soil_management,REC_AQA_00265,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00274,when are the African armyworms noticed by farmers.,pest_management,REC_AQA_00274,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00287,how can reliable rainfall improve soil health?,soil_management,REC_AQA_00287,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00289,how can rainfall increase water quality.,out_of_scope,REC_AQA_00289,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00302,define Livestock management practices?,out_of_scope,NDG_08,NDG_08,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00305,name ways how farmers can manage breeding and reproduction of livestock.,out_of_scope,REC_AQA_00305,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00310,why do livestock require a steady supply of food and water.,out_of_scope,REC_AQA_00310,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00311,what is Livestock management.,out_of_scope,REC_AQA_00311,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00312,name any Livestock management practices.,out_of_scope,NDG_08,NDG_08,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00314,name any livestock diseases.,out_of_scope,REC_AQA_00314,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00334,why is forest pests control difficult.,out_of_scope,REC_AQA_00334,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00380,what is mulching.,crop_cultivation,REC_AQA_00380,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00468,what are Synthetic fertilizers?,fertilizer_application,REC_AQA_00468,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00484,can high temperatures cause drought?,irrigation,REC_AQA_00484,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00486,name districts in karamoja regions that can be affected by drought.,out_of_scope,REC_AQA_00486,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00488,how can timing and method of fertilizer application improves soil fertility.,fertilizer_application,REC_AQA_00488,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00494,which other method is used to improve clay soil for maize production.,soil_management,REC_AQA_00494,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00518,"Apart from supergro, what other fertilizer can a farmer use to retain moisture in the garden during the period of drought?",soil_management,REC_AQA_00518,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00523,what type of soil can cause cassava plant to die prematurely.,soil_management,REC_AQA_00523,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00530,What farming practices destroy soil nutrient,fertilizer_application,REC_AQA_00530,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00551,name examples of compound fertilizers.,fertilizer_application,REC_AQA_00551,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00553,What is the best fertilizers for beans? farmers are in need of rhizobium is it possible for me to get them and sell to my farmers?,fertilizer_application,REC_AQA_00553,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00556,Suggest the advantages of sandy soil,soil_management,REC_AQA_00556,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00610,What is the effect of moisture on stored beans?,harvesting,REC_AQA_00610,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00683,why do we store beans in airtight containers.,harvesting,REC_AQA_00683,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00697,I planted maize the past season and had used cow dung while sowing the drought affected the maize i intend to plant maize again in the same place do i need to apply cow dung again or i plant with out.,fertilizer_application,REC_AQA_00697,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00730,which other way can farmers control soil borne diseases.,soil_management,REC_AQA_00730,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00745,How can local farmers determine the acidity of the soil?,soil_management,REC_AQA_00745,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00747,how does mulching help in soil nutrients retension.,soil_management,REC_AQA_00747,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00757,How can agronomist overcome problems due to persistent use of fertilizers?,fertilizer_application,REC_AQA_00757,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00758,how can the use on integrated nutrients management help overcome problem due to persistent use of fertilizer.,fertilizer_application,REC_AQA_00758,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00760,how does farm yard manure (FYM) helps preserve moisture in the soil.,fertilizer_application,REC_AQA_00760,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00804,why is compost manure important.,soil_management,REC_AQA_00804,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00831,what are the advantages of leaving maize stallk in the garden after harvesting,soil_management,REC_AQA_00831,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00876,What common practice is done to control field pests?,pest_management,REC_AQA_00876,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_00907,Explain how the Animal Husbandry Infrastructure Development Fund (2022) benefits farmers.,out_of_scope,NDG_09,NDG_09,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00909,Describe the impact of the Animal Husbandry Infrastructure Development Fund (2022) on improving livestock rearing conditions.,out_of_scope,NDG_09,NDG_09,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00936,Explain the use of AI/ML & Data Science in Agriculture.,out_of_scope,REC_AQA_00936,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_00989,"What disease is characterized by circular lesions with yellow halos on leaves, twigs, and fruits of citrus trees?",disease_management,REC_AQA_00989,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01045,"What are the primary factors driving citrus market prices, and how do growers manage market volatility?",out_of_scope,REC_AQA_01045,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_01149,What pruning techniques should I use for optimal citrus tree growth and fruit yield?,crop_cultivation,REC_AQA_01149,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01218,What is the mode of transmission for Banana Bunchy Top virus?,disease_management,REC_AQA_01218,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01278,How does powdery mildew spread and persist in grapevines?,disease_management,NDG_06,NDG_06,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01356,What soil amendments are beneficial for guava cultivation?,soil_management,REC_AQA_01356,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01398,"How can I determine the best time to harvest sapotas, and what characteristics indicate their ripeness?",harvesting,REC_AQA_01398,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01434,"When is the best time to harvest apples, and how do I determine their ripeness?",harvesting,REC_AQA_01434,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01478,When is the appropriate time for bean harvesting as recommended for farmers?,harvesting,REC_AQA_01478,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01594,What are the symptoms of bacterial soft rot in chilli plants?,disease_management,REC_AQA_01594,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01617,What irrigation practices are recommended for chili pepper cultivation to ensure optimal water management?,irrigation,REC_AQA_01617,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01690,What are the symptoms of Leaf Curl Disease caused by Tomato Leaf Curl Virus (ToLCV) in tomato plants?,disease_management,REC_AQA_01690,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01736,What are the symptoms of Leaf Blight (Blast)?,disease_management,REC_AQA_01736,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01742,What are the symptoms of Pythium root rot?,disease_management,REC_AQA_01742,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01765,"What are common pests affecting onions, and how can I manage them?",pest_management,REC_AQA_01765,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01769,What marketing strategies can I use to promote my onion crop?,out_of_scope,REC_AQA_01769,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_01773,What type of soil is best for growing garlic?,crop_cultivation,REC_AQA_01773,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01780,What marketing strategies can I use to promote my garlic crop?,out_of_scope,REC_AQA_01780,,Agronomy QA Pairs,accept,not_applicable_classifier_only,train
+AQA_01787,What type of soil is best for growing coconut palms?,soil_management,REC_AQA_01787,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01791,"What are common pests affecting coconut palms, and how can they be managed?",pest_management,REC_AQA_01791,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01811,What nutrients are essential for healthy sapota tree growth and fruiting?,fertilizer_application,REC_AQA_01811,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01834,"When is the best time to harvest guavas, and how do I know they are ripe?",harvesting,REC_AQA_01834,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01865,How does powdery mildew spread and survive?,disease_management,NDG_06,NDG_06,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01872,When is the best time to harvest grapes for wine production?,harvesting,REC_AQA_01872,,Agronomy QA Pairs,accept,clear_and_relevant,train
+AQA_01880,"How much water do banana plants need, and how often should I irrigate them?",irrigation,REC_AQA_01880,,Agronomy QA Pairs,accept,clear_and_relevant,train
+FCN_00281,"When should I start preparing for the harvest of my cassava crops in Delta, Nigeria?",harvesting,REC_FCN_00281,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00421,"What is the best time to harvest cashew nuts to prevent them from falling in Okhoro, Egor, Edo, Nigeria?",harvesting,REC_FCN_00421,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00428,"What type of soil is best for growing bananas in Gadaki, Nigeria?",soil_management,REC_FCN_00428,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00467,"What type of ventilation is required for adult poultry in Utako, Gwarinpa, Abuja Municipal Area Council?",out_of_scope,REC_FCN_00467,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_00488,How can I effectively use azolla as green manure to improve soil health?,soil_management,REC_FCN_00488,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00589,"Which fertilizer is recommended to improve the yield of mature cassava in Warri, Delta, Nigeria?",fertilizer_application,REC_FCN_00589,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00690,"What types of soil are suitable for nurturing cocoa in Ejigbo, Osun, Nigeria?",soil_management,REC_FCN_00690,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00718,When is the best time to start harvesting cassava tomorrow given the clear and sunny forecast?,harvesting,REC_FCN_00718,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00747,What is the recommended feeding strategy for broilers over a 6-week period?,out_of_scope,REC_FCN_00747,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_00775,"When should I irrigate maize after rainfall in Akko, Gombe, Nigeria?",irrigation,NDG_10,NDG_10,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00788,"How can I manage pest infestation in cowpeas during the flowering stage in Ngarabe, Ekureku II, Abi, Cross River, Nigeria?",pest_management,REC_FCN_00788,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00818,What companion plants can I grow with tomatoes to help reduce the population of Sharon beetles?,pest_management,REC_FCN_00818,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00855,What type of fertilizer should I use for my rice crops in this sunny weather?,fertilizer_application,REC_FCN_00855,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00947,"When should I irrigate maize after rainfall in Makurdi, Benue, Nigeria?",irrigation,NDG_10,NDG_10,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_00961,"Which nutrients are essential for boosting flowering in avocado trees in Jos, Nigeria?",fertilizer_application,REC_FCN_00961,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01037,"What are the best irrigation practices for maize during the tasseling stage in Jos, Nigeria?",irrigation,NDG_22,NDG_22,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01092,How can I prevent chickens from eating their own eggs and ensure proper egg production?,out_of_scope,REC_FCN_01092,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_01108,What are effective methods to prevent pod rot in cocoa during the fruiting stage?,disease_management,NDG_11,NDG_11,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01110,"What are effective methods to prevent pod rot in cocoa during the fruiting stage in Offa, Kwara, Nigeria?",disease_management,NDG_11,NDG_11,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01124,"What are the primary and secondary minerals in soil and how do they affect soil health in Utako, Gwarinpa, Abuja Municipal Area Council?",soil_management,REC_FCN_01124,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01192,"What are the best practices for planting maize and rice during the rainy season in Bar Gada, Du, Jos South, Plateau, Nigeria?",crop_cultivation,REC_FCN_01192,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01193,How should I plan my harvest for beans with the clear weather forecast?,harvesting,REC_FCN_01193,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01198,What are the best types of containers to use for storing beans to maintain quality?,harvesting,REC_FCN_01198,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01254,How should I plan my irrigation to ensure optimal soil moisture for planting in Calabar?,irrigation,REC_FCN_01254,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01268,"How can I manage pests in cassava during the maturation stage in Utako, Gwarinpa, Abuja Municipal Area Council?",pest_management,REC_FCN_01268,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01272,"What fertilizer can improve cassava yield at maturity in Utako, Gwarinpa, Abuja Municipal Area Council, Nigeria?",fertilizer_application,REC_FCN_01272,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01446,"Which fertilizer is recommended for yam at the planting stage in Onitsha, Nigeria?",fertilizer_application,REC_FCN_01446,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01542,"What are the benefits of intercropping maize with legumes in Igbasa, Imala-Idiemi?",crop_cultivation,REC_FCN_01542,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01580,"What is soil and how does it affect agricultural practices in Ihiagwa, Imo, Nigeria?",soil_management,REC_FCN_01580,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01647,What type of fertilizer should I use for maize to take advantage of the moist soil conditions?,fertilizer_application,REC_FCN_01647,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01679,"What are effective methods to control stem borer in maize during the flowering stage in Zaria, Kaduna, Nigeria?",pest_management,NDG_12,NDG_12,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01836,"What measures can be taken to prevent fungal diseases during maize flowering in Olokiti, Ido/Onikede/Okuna Awo, Ido, Oyo, Nigeria?",disease_management,REC_FCN_01836,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01861,What causes black spots on cocoa pods during the fruiting stage and how can I manage this disease?,disease_management,REC_FCN_01861,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01972,"How can I manage water stress in maize flowering in Daura, Sabon Gari, Daura, Katsina, Nigeria?",irrigation,REC_FCN_01972,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_01987,"What are effective methods to control stem borer in maize during the flowering stage in Eti-Osa, Lagos?",pest_management,NDG_12,NDG_12,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02235,"When is the best time to harvest maize in Adeleke, Igboidun, Offa, Kwara, Nigeria to prevent yield loss?",harvesting,REC_FCN_02235,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02248,"What are the best practices to prevent root rot in cassava in Benin City, Nigeria?",disease_management,NDG_13,NDG_13,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02428,"What is band fertilizer application and how can it be effectively used for millet cultivation in Katsina, Nigeria?",fertilizer_application,REC_FCN_02428,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02472,"What nutrients do pepper plants need during the flowering stage in Jobele, Oyo, Nigeria?",fertilizer_application,REC_FCN_02472,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02618,When is the best time to vaccinate my goats against orf in Kwara?,out_of_scope,REC_FCN_02618,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_02724,"How can I polish local rice to improve its appearance after harvest in Warri, Delta, Nigeria?",harvesting,REC_FCN_02724,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02744,"What strategies can I implement to prevent heat stress in growing broilers in Eti-Osa, Lagos?",out_of_scope,REC_FCN_02744,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_02816,What type of fertilizer should I use for my crops in Lekki/Ikate at this time of year?,fertilizer_application,REC_FCN_02816,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_02885,"How can I manage maize pests effectively during the vegetative stage in Onitsha, Nigeria?",pest_management,REC_FCN_02885,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03104,"What chemical should I use to prepare the soil for planting in Mushin, Lagos?",soil_management,REC_FCN_03104,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03194,"When should I irrigate maize during the tasseling stage in Karfi, Kano, Nigeria?",irrigation,REC_FCN_03194,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03218,"What can be done to prevent fungal diseases during the grain filling stage of wheat in Jos, Jenta Adamu, Jos North, Plateau, Nigeria?",disease_management,REC_FCN_03218,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03268,What are the signs of maturity in wheat and when should I plan to harvest it?,harvesting,REC_FCN_03268,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03271,What are the recommended treatments for coccidiosis in poultry?,out_of_scope,REC_FCN_03271,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_03297,How can I revive a dried ixora plant that has been affected by heavy waterlogged soil?,out_of_scope,REC_FCN_03297,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_03345,"Are onion leaves suitable for feeding turkey birds, and what are the nutritional implications?",out_of_scope,REC_FCN_03345,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_03388,How many tons of tomatoes can I expect to harvest from my plot?,harvesting,REC_FCN_03388,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03478,"What is soil and how does it affect agricultural practices in Gora, Kano, Nigeria?",soil_management,REC_FCN_03478,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03502,"How should I apply fertilizer to yam during the vegetative stage in Mama, Kwara, Nigeria?",fertilizer_application,REC_FCN_03502,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_03614,"Which fungicide is recommended for managing diseases in cassava at the maturation stage in Lagos, Nigeria?",disease_management,REC_FCN_03614,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04054,"How can I manage root rot in mature cassava in Abraka, Delta, Nigeria?",disease_management,NDG_13,NDG_13,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04061,"How does the weather in Ìkàrẹ́-Akóko affect my layers, and what should I do to mitigate any negative effects?",out_of_scope,REC_FCN_04061,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_04102,"What is the best time to allow my he goat to mate with my she goat in Ìkàrẹ́-Akóko, Arigidi II, Akoko North East, Ondo, Nigeria?",out_of_scope,REC_FCN_04102,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_04128,"How to prepare soil for planting in Port Harcourt, Rumuokoro, Obio/Akpor, Rivers, Nigeria?",soil_management,REC_FCN_04128,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04211,"What are the symptoms of sick goats in Wuse 1, Wuse, Abuja Municipal Area Council, Federal Capital Territory, Nigeria?",out_of_scope,REC_FCN_04211,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_04222,"How can I prevent fruit rot in tomatoes in Abuad, Ado 'M' Farm Settlement, Ado-Ekiti, Ekiti, Nigeria?",disease_management,REC_FCN_04222,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04338,"How can I control blossom end rot in tomato in Ado Ekiti, Ado 'I' Dallimore, Irepodun/Ifelodun, Ekiti, Nigeria?",disease_management,REC_FCN_04338,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04383,"How can I improve soil health with compost in Ikeja, Alausa/Oregun/Olusosun, Ikeja, Lagos, Nigeria?",soil_management,REC_FCN_04383,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04566,"How can I manage fungal diseases in maize during the tasseling stage in Onitsha, Nigeria?",disease_management,REC_FCN_04566,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04809,"What is the best irrigation method for pepper during the fruiting stage in Yakoba, Bauchi, Nigeria?",irrigation,REC_FCN_04809,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_04980,"When should I irrigate maize after rainfall in Wuye, Gwarinpa, Abuja Municipal Area Council?",irrigation,NDG_23,NDG_23,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05112,What type of fertilizer should I use for drought-resistant maize crops in the current dry weather conditions?,irrigation,REC_FCN_05112,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05251,"How should I irrigate maize after recent rainfall in Bunaji, Zamfara?",irrigation,NDG_23,NDG_23,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05312,"How can I manage water stress during the flowering stage of maize in Gezawa, Kano, Nigeria?",irrigation,REC_FCN_05312,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05450,What crops can I intercrop with jujube to maximize land use and improve soil health?,soil_management,REC_FCN_05450,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05542,What fertilizer should I use to keep my melon plants healthy?,crop_cultivation,REC_FCN_05542,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05573,When should I apply organic fertilizers to support my legumes during the flowering stage?,fertilizer_application,REC_FCN_05573,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05595,How can I best use weather forecasts to plan my irrigation for legumes during the flowering stage?,irrigation,REC_FCN_05595,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05597,What are good intercrop options with legumes to reduce pests naturally during the flowering stage?,pest_management,REC_FCN_05597,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05815,"What are the best practices to prevent late blight in potatoes in Akure, Ondo, Nigeria?",disease_management,REC_FCN_05815,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_05993,"What is the yield of faro 67 per hectare in Kumbul, Kombun, Mangu, Plateau, Nigeria?",crop_cultivation,REC_FCN_05993,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06036,What type of fertilizer should I use to boost maize growth in Soba?,fertilizer_application,REC_FCN_06036,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06156,"How can I manage stem borer in maize during the flowering stage in Wuse, Abuja?",pest_management,REC_FCN_06156,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06177,"How can I prevent drought stress in sorghum flowering in Kano, Gwammaja, Dala, Kano, Nigeria?",irrigation,REC_FCN_06177,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06182,"What are the best methods to store ginger to maintain its quality after harvest in Ichol, Adikpo Metropolis, Kwande, Benue, Nigeria?",harvesting,REC_FCN_06182,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06273,"When should NPK fertilizer be applied for maize in Ibadan, Ward 11 Sw9(1), Ibadan South West, Oyo, Nigeria?",fertilizer_application,NDG_16,NDG_16,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06419,What are the best mulching materials to use in Jos for retaining soil moisture?,soil_management,REC_FCN_06419,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06485,"What are the causes of bacterial wilt in Irish potatoes in Rayfield, Du, Jos South, Plateau, Nigeria?",disease_management,REC_FCN_06485,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06562,"When should fertilizer be applied to maize in Ibadan, S 7b, Ibadan South West, Oyo, Nigeria?",fertilizer_application,NDG_16,NDG_16,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06611,"What treatment should be applied for green droppings in poultry in Igbuzor, Ibusa I, Oshimili North, Delta, Nigeria?",out_of_scope,NDG_17,NDG_17,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_06612,"What treatment can I provide for green droppings in my poultry in Igbuzor, Ibusa I, Oshimili North, Delta, Nigeria?",out_of_scope,NDG_17,NDG_17,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_06615,"How can I improve maize soil fertility in Gombe, Dawaki, Gombe, Gombe, Nigeria?",soil_management,REC_FCN_06615,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06637,What crops are best to intercrop with yams to improve soil health in Olomoro?,soil_management,REC_FCN_06637,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_06789,What intercrop options can help reduce pest issues for my noilers in Oyo?,out_of_scope,REC_FCN_06789,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_06936,How do I properly inject antibiotics into a growing pig for health management?,out_of_scope,REC_FCN_06936,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_06959,"Can pawpaw be mixed with pig feed, and what are the nutritional benefits or concerns?",out_of_scope,REC_FCN_06959,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_07067,"When is the best time to apply fertilizer for crop growth in Zaria, Kaduna, Nigeria?",crop_cultivation,REC_FCN_07067,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_07148,"What are the best practices to prevent root rot in mature cassava in Akure, Nigeria?",disease_management,NDG_13,NDG_13,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_07228,"When is the best time to harvest maize at maturity in Wuye, Gwarinpa, Abuja Municipal Area Council, Nigeria?",harvesting,REC_FCN_07228,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_07527,"How can I manage waterlogging in coconut trees during the fruiting stage in Ilishan-Remo, Ogun State?",irrigation,REC_FCN_07527,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_07597,What are the best feeding practices to boost immunity in my livestock?,out_of_scope,REC_FCN_07597,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_07614,"Can I water my plants today in Ologiri, Ebute Igbooro, Egbado North, Ogun State, Nigeria?",crop_cultivation,REC_FCN_07614,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_07782,How can I adjust my irrigation schedule for millet during the flowering stage based on local weather forecasts?,irrigation,REC_FCN_07782,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08173,"What are the benefits of feed fermentation in poultry in Giginyu, Giginyu, Nassarawa, Kano, Nigeria?",out_of_scope,REC_FCN_08173,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_08176,"What are probiotics and their application in poultry feeds in Giginyu, Giginyu, Nassarawa, Kano, Nigeria?",out_of_scope,REC_FCN_08176,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_08209,"What drug can I use to make my chicken big in Asese, Ofada, Obafemi Owode, Ogun State, Nigeria?",out_of_scope,REC_FCN_08209,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_08323,"What are the best materials for building durable pig shelters in Somolu, Yaba/Igbobi?",out_of_scope,REC_FCN_08323,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_08354,"What nutrients are essential for boosting maize ear development during the flowering stage in Kano, Nigeria?",fertilizer_application,REC_FCN_08354,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08577,"What kind of pest control do I need for my plantain farm in Bomadi Camp, Aboh/Akarrai, Ndokwa East, Delta, Nigeria?",pest_management,REC_FCN_08577,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08583,"How should I adjust my irrigation schedule for peanuts during this hot weather in Gwadan Gaji, Gwadangwaji, Birnin Kebbi, Kebbi, Nigeria?",irrigation,REC_FCN_08583,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08593,"How should I adjust my irrigation schedule for rice during this hot weather in Gwadan Gaji, Gwadangwaji, Birnin Kebbi, Kebbi, Nigeria?",irrigation,REC_FCN_08593,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08778,"Can I use grasshopper as a source of protein in poultry feed in Giginyu, Giginyu, Nassarawa, Kano State?",out_of_scope,REC_FCN_08778,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_08805,"What type of soil is suitable for growing ginger in Alimosho, Igando/Egan, Alimosho, Lagos, Nigeria?",soil_management,REC_FCN_08805,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_08882,"How can I prevent root rot in cassava in Lagos Mainland, Oko-Baba, Lagos, Nigeria?",disease_management,REC_FCN_08882,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_09009,"What causes lameness and sneezing in broiler chickens in Lagos Mainland, Oko-Baba, Lagos, Nigeria and what solutions are recommended?",out_of_scope,REC_FCN_09009,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_09047,"When should I harvest potatoes during tuber development in Mangu, Mangu 11, Mangu, Plateau, Nigeria?",harvesting,REC_FCN_09047,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_09049,"What ventilation is best for chickens in cloudy weather in Ikeja, Alausa/Oregun/Olusosun, Ikeja, Lagos, Nigeria?",out_of_scope,REC_FCN_09049,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_09127,"Is bathing very important for pigs in Iyin, Iyin II, Irepodun/Ifelodun, Ekiti, Nigeria?",out_of_scope,REC_FCN_09127,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_09171,"How can I prevent rust in maize during the maturation stage in Stasungu, Bar, Markurdi, Benue, Nigeria?",disease_management,REC_FCN_09171,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_09523,Can I transplant and grow my tomato in a sack filled with soil?,crop_cultivation,REC_FCN_09523,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_09574,What are the best breeds of goats for farming in Ibadan?,out_of_scope,REC_FCN_09574,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_10012,"How can I effectively manage stem borer in maize in Madna, Shere, Bwari, Federal Capital Territory, Nigeria?",pest_management,REC_FCN_10012,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_10329,What crops can I intercrop with cassava to improve soil health and yield?,soil_management,REC_FCN_10329,,FarmerChat Nigeria,accept,clear_and_relevant,train
+FCN_10826,How can I protect my chickens from the effects of the local weather in Kiyawa?,out_of_scope,REC_FCN_10826,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_10995,"What nutrition is best for adult goats in Benin City, Gra/Etete, Oredo, Edo, Nigeria?",out_of_scope,REC_FCN_10995,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+FCN_11330,What are the best practices for maintaining clean water for poultry in Port Harcourt?,out_of_scope,REC_FCN_11330,,FarmerChat Nigeria,accept,not_applicable_classifier_only,train
+AQA_00009,which diseases can be spread by whiteflies?,disease_management,REC_AQA_00009,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00113,Why do cows stand around in fields eating all day?,out_of_scope,REC_AQA_00113,,Agronomy QA Pairs,accept,not_applicable_classifier_only,validation
+AQA_00192,how can i differentiate sprinkler irrigation from drip irrigation.,irrigation,REC_AQA_00192,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00208,how doses cover crops reduce soil loss?,soil_management,REC_AQA_00208,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00316,name the diet in which diary cows should be fed on.,out_of_scope,REC_AQA_00316,,Agronomy QA Pairs,accept,not_applicable_classifier_only,validation
+AQA_00495,how can crop rotation improves clay soil.,soil_management,REC_AQA_00495,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00675,how can farmers use test kit to test soil PH.,soil_management,REC_AQA_00675,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00695,can waterlogging cause yellowing in beans plants?,irrigation,REC_AQA_00695,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00756,how can improver storage cause shriveling and rotting o beans seed.,harvesting,REC_AQA_00756,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00852,how can sun drying helps control pest in beans.,pest_management,REC_AQA_00852,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00875,How can i improve fertility of soil for proper production of maize without application of fertilizer,fertilizer_application,REC_AQA_00875,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_00899,Describe the role of the Agriculture Infrastructure Fund (2023) in enhancing post-harvest management.,out_of_scope,REC_AQA_00899,,Agronomy QA Pairs,accept,not_applicable_classifier_only,validation
+AQA_01237,What irrigation practices are suitable for banana cultivation?,irrigation,REC_AQA_01237,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01301,"Which pests and diseases commonly afflict grapevines, and what measures can be taken for control?",pest_management,NDG_07,NDG_07,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01302,"What are some prevalent grapevine pests and diseases, and how can their impact be minimized?",pest_management,NDG_07,NDG_07,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01421,What type of soil is best for growing apple trees?,crop_cultivation,REC_AQA_01421,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01481,How can soil erosion be effectively prevented by farmers?,soil_management,REC_AQA_01481,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01554,What are the common symptoms of fruit rot and die back in chilli plants?,disease_management,REC_AQA_01554,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01612,Describe the preferred soil characteristics for growing chili peppers.,soil_management,REC_AQA_01612,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+AQA_01658,How should potatoes be fertilized for optimal growth and tuber development?,fertilizer_application,REC_AQA_01658,,Agronomy QA Pairs,accept,clear_and_relevant,validation
+FCN_00388,"What fungicide should I use for managing diseases in maize during the maturation stage in Kano, Nigeria?",disease_management,REC_FCN_00388,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_00442,What natural methods can I use to control pests affecting my guinea fowl in Daladi?,out_of_scope,REC_FCN_00442,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_00564,What type of fertilizer should I use for my oil palm seedlings to boost their growth in Akwanga?,fertilizer_application,REC_FCN_00564,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_00725,"How can I monitor rice for post-harvest pests in Madna, Shere, Bwari, Federal Capital Territory, Nigeria?",pest_management,REC_FCN_00725,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_01032,"How can I effectively manage root rot in cassava in Izombe, Imo, Nigeria?",disease_management,REC_FCN_01032,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_01468,"How should I irrigate maize after recent rainfall in Agege, Lagos?",irrigation,REC_FCN_01468,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_01546,What fertilizer should I use to boost my tomato growth in Ikeja?,fertilizer_application,REC_FCN_01546,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_01634,"When is the best time to plant maize in April in Umuinya, Umunya I, Oyi, Anambra, Nigeria?",crop_cultivation,REC_FCN_01634,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_02603,"When is the optimal time to harvest cassava at maturity in Madna, Shere, Bwari, Federal Capital Territory, Nigeria?",harvesting,NDG_15,NDG_15,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_02993,"When is the optimal time to harvest cassava at maturity in Agbor, Boji-Boji III, Ika South, Delta, Nigeria?",harvesting,NDG_15,NDG_15,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_03067,How should I manage irrigation for tomatoes in Kura during this dry season?,irrigation,REC_FCN_03067,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_04986,"What could be causing my goat to become thinner, and what health checkup or feeding adjustments should I consider?",out_of_scope,REC_FCN_04986,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_05115,How long does it take for pepper plants to mature and when should I expect to harvest them?,harvesting,REC_FCN_05115,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_05829,"What are the best treatment options for ticks in livestock to prevent disease in Isiwu, Ikorodu, Lagos?",out_of_scope,REC_FCN_05829,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_06011,"What type of soil is best for planting melon in Onitsha, Nigeria, and when is the optimal time for planting?",crop_cultivation,REC_FCN_06011,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_06519,"What is the poultry layers formula using corn and soya meal in Alike, Amuzi, Obowo, Imo, Nigeria?",out_of_scope,REC_FCN_06519,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_06766,"What fertilizer can I use to boost yam tuber development in Kano, Nigeria?",fertilizer_application,REC_FCN_06766,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_07118,"When is the optimal time to harvest cassava at maturity in Oka, Edo, Nigeria?",harvesting,NDG_15,NDG_15,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_07139,"Can I mix beans leaves with pig feed, and what are the nutritional benefits or concerns?",out_of_scope,REC_FCN_07139,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_07812,How should I apply fertilizers to cadmon seedlings to ensure healthy growth in Zaria?,fertilizer_application,REC_FCN_07812,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_08627,"What are effective methods to prevent fungal diseases in maize in Efon, Ilugun, Odeda, Ogun State, Nigeria?",disease_management,REC_FCN_08627,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_08719,"How can I improve soil for maize in Jos, Naraguta 'B', Jos North, Plateau, Nigeria?",soil_management,REC_FCN_08719,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_08903,"How can I identify crop diseases in my farm in Wuye, Gwarinpa, Abuja Municipal Area Council?",disease_management,REC_FCN_08903,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_09121,"How can I improve soil for maize in Benin City, Gra/Etete, Oredo, Edo, Nigeria?",soil_management,REC_FCN_09121,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_09291,"What causes tomato plants to die just before harvest, excluding chemical effects, and what management practices can prevent this?",disease_management,REC_FCN_09291,,FarmerChat Nigeria,accept,clear_and_relevant,validation
+FCN_10563,What are the possible causes of coughing in goats and what health management practices can be implemented to address this issue?,out_of_scope,REC_FCN_10563,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_10581,"What are effective methods to prevent diseases in fish during their growth stage in Islokolo, Agbarha, Ughelli North, Delta, Nigeria?",out_of_scope,REC_FCN_10581,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_10932,"What is the best method to feed goats in Ibadan, Oyo, Nigeria?",out_of_scope,REC_FCN_10932,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+FCN_10996,How can I control prolapse and pecking issues in my layer birds' pen?,out_of_scope,REC_FCN_10996,,FarmerChat Nigeria,accept,not_applicable_classifier_only,validation
+AQA_00115,what is the use of cow's special stomach,out_of_scope,REC_AQA_00115,,Agronomy QA Pairs,accept,not_applicable_classifier_only,test
+AQA_00117,How can cows make so much milk?,out_of_scope,REC_AQA_00117,,Agronomy QA Pairs,accept,not_applicable_classifier_only,test
+AQA_00140,List the breeds of dairy cattle?,out_of_scope,REC_AQA_00140,,Agronomy QA Pairs,accept,not_applicable_classifier_only,test
+AQA_00172,List some of the soil management activites.,soil_management,REC_AQA_00172,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00174,what is fertilization?,fertilizer_application,REC_AQA_00174,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00262,what happens during biological nitrogen fixation?,fertilizer_application,REC_AQA_00262,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00286,how does reliable rainfall improve crop yield.,irrigation,REC_AQA_00286,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00304,why should Livestock receive appropriate veterinary care.,out_of_scope,REC_AQA_00304,,Agronomy QA Pairs,accept,not_applicable_classifier_only,test
+AQA_00371,name one demerits of single stem planting method.,crop_cultivation,REC_AQA_00371,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00469,what are nitrogen fertilizers?,fertilizer_application,REC_AQA_00469,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00604,why is it advisable or recommended to conduct a soil test before fertilizer application.,fertilizer_application,REC_AQA_00604,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_00653,How long should maize grains to be boiled for it's effective nutrients in human consumption.,out_of_scope,REC_AQA_00653,,Agronomy QA Pairs,accept,not_applicable_classifier_only,test
+AQA_00689,Name the crops that can be successfully grown in clay soil.,soil_management,REC_AQA_00689,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_01029,"What are some common pests that infest citrus trees, and how can they be managed?",pest_management,REC_AQA_01029,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_01321,What signs indicate the presence of Anthracnose in guava trees?,disease_management,REC_AQA_01321,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_01349,What are the common pests and diseases that affect guava trees?,pest_management,REC_AQA_01349,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_01542,How does soil moisture level affect the spread of damping off in chilli plants?,irrigation,REC_AQA_01542,,Agronomy QA Pairs,accept,clear_and_relevant,test
+AQA_01767,"When is the best time to harvest onions, and how do I know they are ready?",harvesting,REC_AQA_01767,,Agronomy QA Pairs,accept,clear_and_relevant,test
+FCN_00024,"What are the best practices to prevent late blight in potatoes during the maturation stage in Ibadan, Nigeria?",disease_management,REC_FCN_00024,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_00364,"How does the current weather in Shendam affect tick activity in my sheep and goats, and what preventive measures should I take?",out_of_scope,REC_FCN_00364,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_00386,How can I combat an outbreak of Gumboro disease in my 3-week-old pullet?,disease_management,REC_FCN_00386,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_00605,"How should I apply fertilizer to rice during the vegetative stage in Bagwai, Kano, Nigeria?",fertilizer_application,REC_FCN_00605,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_00608,"When is the best time to harvest yam at maturity in Ozoro, Delta, Nigeria?",harvesting,NDG_14,NDG_14,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_00798,"What are the management practices for fowlpox disease in fowl, and how can I prevent its spread?",out_of_scope,REC_FCN_00798,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_00899,"How can I improve soil health for my crops in Obiokwu, Rivers, Nigeria?",soil_management,REC_FCN_00899,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_01012,"What are the best practices to maintain moisture for maize sowing in Anambra, Nigeria?",irrigation,REC_FCN_01012,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_01263,"How can I test the soil pH scale for my farm in Ilaro, Ogun State?",soil_management,REC_FCN_01263,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_01282,"What are effective methods to prevent fungal diseases in maize during the flowering stage in Port Harcourt, Nigeria?",disease_management,REC_FCN_01282,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_01445,"How can I control stem borer in maize in Kyan Bawa, Garun Malam, Kano, Nigeria?",pest_management,REC_FCN_01445,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_01632,"What measures can I take to prevent respiratory issues in goats in Port Harcourt, Nigeria?",out_of_scope,REC_FCN_01632,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_01774,"When should fertilizer be applied to maize in Ihitte, Ogbor/Umueze, Ahiazu-Mbaise, Imo, Nigeria?",fertilizer_application,REC_FCN_01774,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_02378,Should I increase the water supply for my plantain crop now in Ado Ekiti?,irrigation,REC_FCN_02378,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_02568,"When is the best time to harvest yam at maturity in River Ake, Agan, Markurdi, Benue, Nigeria?",harvesting,NDG_14,NDG_14,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_02611,"How can I effectively monitor my wheat for rust disease in Jos, Nigeria?",disease_management,REC_FCN_02611,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_03112,"What are the best irrigation methods for crops today in Wuye, Gwarinpa, Abuja Municipal Area Council?",irrigation,REC_FCN_03112,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_03626,"What are effective methods to prevent fungal diseases in maize during the flowering stage in Abraka, Delta, Nigeria?",disease_management,REC_FCN_03626,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_03726,"What type of fertilizer can strengthen corn during the flowering stage in Kaduna, Nigeria?",crop_cultivation,REC_FCN_03726,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_03797,What practices can I implement to maintain soil moisture during high humidity days?,soil_management,REC_FCN_03797,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_03832,"What is the best time to harvest yam in Oyigbo, Rivers, Nigeria?",harvesting,NDG_14,NDG_14,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_04878,"What is the recommended feed formula for fattening cows in Rogo, Kano, Nigeria?",out_of_scope,REC_FCN_04878,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_05598,How should I manage pests on my legumes during the flowering stage?,pest_management,REC_FCN_05598,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_05622,"What is the best time to harvest yam in Ozoro, Ozoro III, Isoko North, Delta, Nigeria?",harvesting,NDG_14,NDG_14,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_05876,"What is the best irrigation method for growing yam in Ojo, Lagos, Nigeria?",irrigation,REC_FCN_05876,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_06003,"What are the best practices for general care and feeding of poultry in Lokoja, Kogi, Nigeria?",out_of_scope,REC_FCN_06003,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_06023,What are some organic substitutes for calcium carbonate that can be used to address nutrient deficiencies?,fertilizer_application,REC_FCN_06023,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_06133,"How can I manage fungal risk during the flowering stage of maize in Lagos, Nigeria?",crop_cultivation,REC_FCN_06133,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_06175,"What fertilizer boosts the fruiting stage of tomatoes in Bama, Kasugula, Bama, Borno, Nigeria?",fertilizer_application,REC_FCN_06175,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_06602,"How can I manage rhizome rot in ginger in Katsina Ala, Katsina-Ala Town, Ushongo, Benue, Nigeria?",disease_management,REC_FCN_06602,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_06836,What specific feed mix should I use for my noilers to boost their egg production in Oyo?,out_of_scope,REC_FCN_06836,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_07238,How can I prevent rot in ginger during the harvesting process?,disease_management,REC_FCN_07238,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_07659,How can I modify the goat housing to keep them cool during the hot season in Gwarinpa?,out_of_scope,NDG_24,NDG_24,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_07669,What practices can I implement to prevent heat-related diseases in my goats during the hot season in Gwarinpa?,out_of_scope,REC_FCN_07669,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_07675,How can I improve the housing for my goats to better protect them from heat stress?,out_of_scope,NDG_24,NDG_24,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_07963,"How can I keep soil moist for crops in Wuye, Gwarinpa, Abuja Municipal Area Council, Federal Capital Territory, Nigeria?",soil_management,REC_FCN_07963,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_08424,"What can I do to improve soil health for better crop growth on my farm in Bwari, Federal Capital Territory, Nigeria?",soil_management,REC_FCN_08424,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_08718,"What strategies can I use to overcome fuel scarcity during irrigation for my maize farming in Kano, Nigeria?",irrigation,REC_FCN_08718,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_08775,"When should I vaccinate my noilers and turkeys to prevent common diseases in Giginyu, Giginyu, Nassarawa, Kano State, Nigeria?",out_of_scope,REC_FCN_08775,,FarmerChat Nigeria,accept,not_applicable_classifier_only,test
+FCN_08812,"What is the best time to harvest yam in Oleh, Olomoro, Isoko South, Delta, Nigeria?",harvesting,NDG_14,NDG_14,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_08835,"How can I manage pest risk during the maturation stage of rice in Abeokuta, Ogun State?",pest_management,REC_FCN_08835,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_08939,How should I manage soil nutrients for better crop growth in Damaturu?,soil_management,REC_FCN_08939,,FarmerChat Nigeria,accept,clear_and_relevant,test
+FCN_09185,"Can I wet the soil and plant tomato and pepper on the same day in Rafin Zurfi, Bauchi, Nigeria?",soil_management,REC_FCN_09185,,FarmerChat Nigeria,accept,clear_and_relevant,test

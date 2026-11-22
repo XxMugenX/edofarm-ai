@@ -1,0 +1,123 @@
+example_id,record_id,language,question_text,primary_intent,predicted_intent,correct
+AQA_00172_english,AQA_00172,english,List some of the soil management activites.,soil_management,soil_management,True
+AQA_00174_english,AQA_00174,english,what is fertilization?,fertilizer_application,fertilizer_application,True
+AQA_00262_english,AQA_00262,english,what happens during biological nitrogen fixation?,fertilizer_application,out_of_scope,False
+AQA_00286_english,AQA_00286,english,how does reliable rainfall improve crop yield.,irrigation,soil_management,False
+AQA_00371_english,AQA_00371,english,name one demerits of single stem planting method.,crop_cultivation,out_of_scope,False
+AQA_00469_english,AQA_00469,english,what are nitrogen fertilizers?,fertilizer_application,fertilizer_application,True
+AQA_00604_english,AQA_00604,english,why is it advisable or recommended to conduct a soil test before fertilizer application.,fertilizer_application,fertilizer_application,True
+AQA_00689_english,AQA_00689,english,Name the crops that can be successfully grown in clay soil.,soil_management,soil_management,True
+AQA_01029_english,AQA_01029,english,"What are some common pests that infest citrus trees, and how can they be managed?",pest_management,pest_management,True
+AQA_01321_english,AQA_01321,english,What signs indicate the presence of Anthracnose in guava trees?,disease_management,out_of_scope,False
+AQA_01349_english,AQA_01349,english,What are the common pests and diseases that affect guava trees?,pest_management,pest_management,True
+AQA_01542_english,AQA_01542,english,How does soil moisture level affect the spread of damping off in chilli plants?,irrigation,soil_management,False
+AQA_01767_english,AQA_01767,english,"When is the best time to harvest onions, and how do I know they are ready?",harvesting,harvesting,True
+FCN_00024_english,FCN_00024,english,"What are the best practices to prevent late blight in potatoes during the maturation stage in Ibadan, Nigeria?",disease_management,disease_management,True
+FCN_00386_english,FCN_00386,english,How can I combat an outbreak of Gumboro disease in my 3-week-old pullet?,disease_management,out_of_scope,False
+FCN_00605_english,FCN_00605,english,"How should I apply fertilizer to rice during the vegetative stage in Bagwai, Kano, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_00608_english,FCN_00608,english,"When is the best time to harvest yam at maturity in Ozoro, Delta, Nigeria?",harvesting,harvesting,True
+FCN_00899_english,FCN_00899,english,"How can I improve soil health for my crops in Obiokwu, Rivers, Nigeria?",soil_management,soil_management,True
+FCN_01012_english,FCN_01012,english,"What are the best practices to maintain moisture for maize sowing in Anambra, Nigeria?",irrigation,harvesting,False
+FCN_01263_english,FCN_01263,english,"How can I test the soil pH scale for my farm in Ilaro, Ogun State?",soil_management,soil_management,True
+FCN_01282_english,FCN_01282,english,"What are effective methods to prevent fungal diseases in maize during the flowering stage in Port Harcourt, Nigeria?",disease_management,disease_management,True
+FCN_01445_english,FCN_01445,english,"How can I control stem borer in maize in Kyan Bawa, Garun Malam, Kano, Nigeria?",pest_management,pest_management,True
+FCN_01774_english,FCN_01774,english,"When should fertilizer be applied to maize in Ihitte, Ogbor/Umueze, Ahiazu-Mbaise, Imo, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_02378_english,FCN_02378,english,Should I increase the water supply for my plantain crop now in Ado Ekiti?,irrigation,out_of_scope,False
+FCN_02568_english,FCN_02568,english,"When is the best time to harvest yam at maturity in River Ake, Agan, Markurdi, Benue, Nigeria?",harvesting,harvesting,True
+FCN_02611_english,FCN_02611,english,"How can I effectively monitor my wheat for rust disease in Jos, Nigeria?",disease_management,disease_management,True
+FCN_03112_english,FCN_03112,english,"What are the best irrigation methods for crops today in Wuye, Gwarinpa, Abuja Municipal Area Council?",irrigation,irrigation,True
+FCN_03626_english,FCN_03626,english,"What are effective methods to prevent fungal diseases in maize during the flowering stage in Abraka, Delta, Nigeria?",disease_management,disease_management,True
+FCN_03726_english,FCN_03726,english,"What type of fertilizer can strengthen corn during the flowering stage in Kaduna, Nigeria?",crop_cultivation,fertilizer_application,False
+FCN_03797_english,FCN_03797,english,What practices can I implement to maintain soil moisture during high humidity days?,soil_management,soil_management,True
+FCN_03832_english,FCN_03832,english,"What is the best time to harvest yam in Oyigbo, Rivers, Nigeria?",harvesting,harvesting,True
+FCN_05598_english,FCN_05598,english,How should I manage pests on my legumes during the flowering stage?,pest_management,pest_management,True
+FCN_05622_english,FCN_05622,english,"What is the best time to harvest yam in Ozoro, Ozoro III, Isoko North, Delta, Nigeria?",harvesting,harvesting,True
+FCN_05876_english,FCN_05876,english,"What is the best irrigation method for growing yam in Ojo, Lagos, Nigeria?",irrigation,irrigation,True
+FCN_06023_english,FCN_06023,english,What are some organic substitutes for calcium carbonate that can be used to address nutrient deficiencies?,fertilizer_application,fertilizer_application,True
+FCN_06133_english,FCN_06133,english,"How can I manage fungal risk during the flowering stage of maize in Lagos, Nigeria?",crop_cultivation,pest_management,False
+FCN_06175_english,FCN_06175,english,"What fertilizer boosts the fruiting stage of tomatoes in Bama, Kasugula, Bama, Borno, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_06602_english,FCN_06602,english,"How can I manage rhizome rot in ginger in Katsina Ala, Katsina-Ala Town, Ushongo, Benue, Nigeria?",disease_management,disease_management,True
+FCN_07238_english,FCN_07238,english,How can I prevent rot in ginger during the harvesting process?,disease_management,disease_management,True
+FCN_07963_english,FCN_07963,english,"How can I keep soil moist for crops in Wuye, Gwarinpa, Abuja Municipal Area Council, Federal Capital Territory, Nigeria?",soil_management,out_of_scope,False
+FCN_08424_english,FCN_08424,english,"What can I do to improve soil health for better crop growth on my farm in Bwari, Federal Capital Territory, Nigeria?",soil_management,soil_management,True
+FCN_08718_english,FCN_08718,english,"What strategies can I use to overcome fuel scarcity during irrigation for my maize farming in Kano, Nigeria?",irrigation,irrigation,True
+FCN_08812_english,FCN_08812,english,"What is the best time to harvest yam in Oleh, Olomoro, Isoko South, Delta, Nigeria?",harvesting,harvesting,True
+FCN_08835_english,FCN_08835,english,"How can I manage pest risk during the maturation stage of rice in Abeokuta, Ogun State?",pest_management,pest_management,True
+FCN_08939_english,FCN_08939,english,How should I manage soil nutrients for better crop growth in Damaturu?,soil_management,fertilizer_application,False
+FCN_09185_english,FCN_09185,english,"Can I wet the soil and plant tomato and pepper on the same day in Rafin Zurfi, Bauchi, Nigeria?",soil_management,soil_management,True
+AQA_00115_english,AQA_00115,english,what is the use of cow's special stomach,out_of_scope,out_of_scope,True
+AQA_00117_english,AQA_00117,english,How can cows make so much milk?,out_of_scope,out_of_scope,True
+AQA_00140_english,AQA_00140,english,List the breeds of dairy cattle?,out_of_scope,out_of_scope,True
+AQA_00304_english,AQA_00304,english,why should Livestock receive appropriate veterinary care.,out_of_scope,out_of_scope,True
+AQA_00653_english,AQA_00653,english,How long should maize grains to be boiled for it's effective nutrients in human consumption.,out_of_scope,fertilizer_application,False
+FCN_00364_english,FCN_00364,english,"How does the current weather in Shendam affect tick activity in my sheep and goats, and what preventive measures should I take?",out_of_scope,out_of_scope,True
+FCN_00798_english,FCN_00798,english,"What are the management practices for fowlpox disease in fowl, and how can I prevent its spread?",out_of_scope,disease_management,False
+FCN_01632_english,FCN_01632,english,"What measures can I take to prevent respiratory issues in goats in Port Harcourt, Nigeria?",out_of_scope,out_of_scope,True
+FCN_04878_english,FCN_04878,english,"What is the recommended feed formula for fattening cows in Rogo, Kano, Nigeria?",out_of_scope,out_of_scope,True
+FCN_06003_english,FCN_06003,english,"What are the best practices for general care and feeding of poultry in Lokoja, Kogi, Nigeria?",out_of_scope,out_of_scope,True
+FCN_06836_english,FCN_06836,english,What specific feed mix should I use for my noilers to boost their egg production in Oyo?,out_of_scope,out_of_scope,True
+FCN_07659_english,FCN_07659,english,How can I modify the goat housing to keep them cool during the hot season in Gwarinpa?,out_of_scope,pest_management,False
+FCN_07669_english,FCN_07669,english,What practices can I implement to prevent heat-related diseases in my goats during the hot season in Gwarinpa?,out_of_scope,disease_management,False
+FCN_07675_english,FCN_07675,english,How can I improve the housing for my goats to better protect them from heat stress?,out_of_scope,out_of_scope,True
+FCN_08775_english,FCN_08775,english,"When should I vaccinate my noilers and turkeys to prevent common diseases in Giginyu, Giginyu, Nassarawa, Kano State, Nigeria?",out_of_scope,out_of_scope,True
+AQA_00172_edo_bini,AQA_00172,edo_bini,Fie ẹmwẹ yọ vbe emwin nọ rre iruẹmwin nẹ a ru vbe otọ (soil management activities).,soil_management,soil_management,True
+AQA_00174_edo_bini,AQA_00174,edo_bini,Vbọ rre fertilization?,fertilizer_application,fertilizer_application,True
+AQA_00262_edo_bini,AQA_00262,edo_bini,Vbọ na sunu vbe ẹghẹ biological nitrogen fixation?,fertilizer_application,out_of_scope,False
+AQA_00286_edo_bini,AQA_00286,edo_bini,De vbene oso nọ rre vbe ẹghẹ esẹ na ya ru nẹ emwin nẹ a kọ na bún hẹ?,irrigation,harvesting,False
+AQA_00371_edo_bini,AQA_00371,edo_bini,Fie emwin nọ khọọ okpa vbe odẹ ikọ-emwin single stem planting method.,crop_cultivation,out_of_scope,False
+AQA_00469_edo_bini,AQA_00469,edo_bini,Vbọ rre nitrogen fertilizers?,fertilizer_application,fertilizer_application,True
+AQA_00604_edo_bini,AQA_00604,edo_bini,Vbọ zẹ nẹ a na khẹke nẹ a ru ighẹghẹ otọ (soil test) kevbe nẹ a fi ikhunmwun otọ (fertilizer) yọ?,fertilizer_application,fertilizer_application,True
+AQA_00689_edo_bini,AQA_00689,edo_bini,Fie emwin nẹ a kọ nọ sẹtin kpẹnmwẹn esẹ vbe otọ-ẹkẹn (clay soil).,soil_management,soil_management,True
+AQA_01029_edo_bini,AQA_01029,edo_bini,"De erhanmwen eke-eke nọ na gbe erhan alimo rua, kevbe de vbene a sẹtin ya kọkọ iran hẹ?",pest_management,pest_management,True
+AQA_01321_edo_bini,AQA_01321,edo_bini,De emwin nọ rhiẹre ma nẹ Anthracnose rre egbe erhan guava?,disease_management,disease_management,True
+AQA_01349_edo_bini,AQA_01349,edo_bini,De erhanmwen kevbe emianmwen nọ na gbe erhan guava rua vbe ẹghẹ hia?,pest_management,pest_management,True
+AQA_01542_edo_bini,AQA_01542,edo_bini,De vbene amẹ nọ rre otọ (soil moisture level) na ya ru ikpe damping off vbe erhan asikọ (chilli plants) hẹ?,irrigation,soil_management,False
+AQA_01767_edo_bini,AQA_01767,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ alubarha (onions), kevbe de vbene I sẹtin ya rẹn nẹ iran kọkọ rre?",harvesting,harvesting,True
+FCN_00024_edo_bini,FCN_00024,edo_bini,"De iruẹmwin nọ maan sẹ nẹ a ya kọkọ emianmwen late blight vbe potatoes vbe ẹghẹ nẹ ọ na kọkọ rre vbe Ibadan, Nigeria?",disease_management,disease_management,True
+FCN_00386_edo_bini,FCN_00386,edo_bini,De vbene I sẹtin ya kọkọ ikpe emianmwen Gumboro disease vbe egbe pullet mẹ nọ rre usun eha (3-week-old)?,disease_management,disease_management,True
+FCN_00605_edo_bini,FCN_00605,edo_bini,"De vbene I khẹke nẹ I ya fi fertilizer yọ irẹsị (rice) vbe ẹghẹ ikpẹnmwẹn (vegetative stage) vbe Bagwai, Kano, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_00608_edo_bini,FCN_00608,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ ema (yam) vbe ẹghẹ nẹ ọ na kọkọ rre vbe Ozoro, Delta, Nigeria?",harvesting,harvesting,True
+FCN_00899_edo_bini,FCN_00899,edo_bini,"De vbene I sẹtin ya ru otọ maan nẹ emwin-ọgba mẹ vbe Obiokwu, Rivers, Nigeria hẹ?",soil_management,soil_management,True
+FCN_01012_edo_bini,FCN_01012,edo_bini,"De iruẹmwin nọ maan sẹ nẹ a ya sẹ amẹ nẹ ikọ oka vbe Anambra, Nigeria?",irrigation,harvesting,False
+FCN_01263_edo_bini,FCN_01263,edo_bini,"De vbene I sẹtin ya ghẹghẹ soil pH scale nẹ ọgba mẹ vbe Ilaro, Ogun State?",soil_management,soil_management,True
+FCN_01282_edo_bini,FCN_01282,edo_bini,"De odẹ nọ ru iruẹmwin esẹ nẹ a ya kọkọ emianmwen fungal diseases vbe oka vbe ẹghẹ ododo (flowering stage) vbe Port Harcourt, Nigeria?",disease_management,disease_management,True
+FCN_01445_edo_bini,FCN_01445,edo_bini,"De vbene I sẹtin ya kọkọ stem borer vbe oka vbe Kyan Bawa, Garun Malam, Kano, Nigeria?",pest_management,pest_management,True
+FCN_01774_edo_bini,FCN_01774,edo_bini,"De ẹghẹ nẹ a khẹke nẹ a fi fertilizer yọ oka vbe Ihitte, Ogbor/Umueze, Ahiazu-Mbaise, Imo, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_02378_edo_bini,FCN_02378,edo_bini,I khẹke nẹ I mu amẹ nọ I rhiẹ erhan oghede mẹ okhunmwun vbe ẹghẹ na vbe Ado Ekiti?,irrigation,irrigation,True
+FCN_02568_edo_bini,FCN_02568,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ ema (yam) vbe ẹghẹ nẹ ọ na kọkọ rre vbe River Ake, Agan, Markurdi, Benue, Nigeria?",harvesting,harvesting,True
+FCN_02611_edo_bini,FCN_02611,edo_bini,"De vbene I sẹtin ya ghẹghẹ wheat mẹ esẹ nẹ emianmwen rust disease vbe Jos, Nigeria?",disease_management,disease_management,True
+FCN_03112_edo_bini,FCN_03112,edo_bini,"De odẹ ikpe-amẹ (irrigation methods) nọ maan sẹ nẹ emwin-ọgba ẹdẹ na vbe Wuye, Gwarinpa, Abuja Municipal Area Council?",irrigation,irrigation,True
+FCN_03626_edo_bini,FCN_03626,edo_bini,"De odẹ nọ ru iruẹmwin esẹ nẹ a ya kọkọ fungal diseases vbe oka vbe ẹghẹ ododo (flowering stage) vbe Abraka, Delta, Nigeria?",disease_management,disease_management,True
+FCN_03726_edo_bini,FCN_03726,edo_bini,"De ẹgbẹ fertilizer nọ sẹtin ru oka (corn) mwẹ ẹtin vbe ẹghẹ ododo (flowering stage) vbe Kaduna, Nigeria?",crop_cultivation,fertilizer_application,False
+FCN_03797_edo_bini,FCN_03797,edo_bini,De iruẹmwin nẹ I sẹtin ru nẹ I sẹ amẹ vbe otọ vbe ẹdẹ nẹ humidity kpọlọ?,soil_management,soil_management,True
+FCN_03832_edo_bini,FCN_03832,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ ema (yam) vbe Oyigbo, Rivers, Nigeria?",harvesting,harvesting,True
+FCN_05598_edo_bini,FCN_05598,edo_bini,De vbene I khẹke nẹ I ya kọkọ erhanmwen vbe legumes mẹ vbe ẹghẹ ododo (flowering stage)?,pest_management,pest_management,True
+FCN_05622_edo_bini,FCN_05622,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ ema (yam) vbe Ozoro, Ozoro III, Isoko North, Delta, Nigeria?",harvesting,harvesting,True
+FCN_05876_edo_bini,FCN_05876,edo_bini,"De odẹ ikpe-amẹ (irrigation method) nọ maan sẹ nẹ ikọ ema (yam) vbe Ojo, Lagos, Nigeria?",irrigation,irrigation,True
+FCN_06023_edo_bini,FCN_06023,edo_bini,Vbọ rre emwin otọ (organic substitutes) eke-eke nẹ calcium carbonate nẹ a sẹtin lọghọ nẹ a ya kọkọ ikhekhe emwin nọ ru otọ maan (nutrient deficiencies)?,fertilizer_application,soil_management,False
+FCN_06133_edo_bini,FCN_06133,edo_bini,"De vbene I sẹtin ya kọkọ fungal risk vbe ẹghẹ ododo oka (flowering stage of maize) vbe Lagos, Nigeria?",crop_cultivation,disease_management,False
+FCN_06175_edo_bini,FCN_06175,edo_bini,"De fertilizer nọ mu ẹghẹ iru-ibi (fruiting stage) itomato okhunmwun vbe Bama, Kasugula, Bama, Borno, Nigeria?",fertilizer_application,fertilizer_application,True
+FCN_06602_edo_bini,FCN_06602,edo_bini,"De vbene I sẹtin ya kọkọ rhizome rot vbe agbẹ (ginger) vbe Katsina Ala, Katsina-Ala Town, Ushongo, Benue, Nigeria?",disease_management,disease_management,True
+FCN_07238_edo_bini,FCN_07238,edo_bini,De vbene I sẹtin ya kọkọ ibẹ (rot) vbe agbẹ (ginger) vbe ẹghẹ ikọ-emwin?,disease_management,disease_management,True
+FCN_07963_edo_bini,FCN_07963,edo_bini,"De vbene I sẹtin ya sẹ otọ nọ mwẹ amẹ nẹ emwin-ọgba vbe Wuye, Gwarinpa, Abuja Municipal Area Council, Federal Capital Territory, Nigeria?",soil_management,soil_management,True
+FCN_08424_edo_bini,FCN_08424,edo_bini,"Vbọ nẹ I sẹtin ru nẹ I ru otọ maan nẹ ikpẹnmwẹn emwin-ọgba nọ maan sẹ vbe ọgba mẹ vbe Bwari, Federal Capital Territory, Nigeria?",soil_management,soil_management,True
+FCN_08718_edo_bini,FCN_08718,edo_bini,"De odẹ nẹ I sẹtin lọghọ nẹ I kọkọ ikhekhe epo (fuel scarcity) vbe ẹghẹ ikpe-amẹ nẹ iru-ọgba oka mẹ vbe Kano, Nigeria?",irrigation,irrigation,True
+FCN_08812_edo_bini,FCN_08812,edo_bini,"De ẹghẹ nọ maan sẹ nẹ a na kọ ema (yam) vbe Oleh, Olomoro, Isoko South, Delta, Nigeria?",harvesting,harvesting,True
+FCN_08835_edo_bini,FCN_08835,edo_bini,"De vbene I sẹtin ya kọkọ ẹtin erhanmwen (pest risk) vbe ẹghẹ nẹ irẹsị (rice) na kọkọ rre vbe Abeokuta, Ogun State?",pest_management,pest_management,True
+FCN_08939_edo_bini,FCN_08939,edo_bini,De vbene I khẹke nẹ I ya kọkọ emwin nọ ru otọ maan (soil nutrients) nẹ ikpẹnmwẹn emwin-ọgba nọ maan sẹ vbe Damaturu?,soil_management,soil_management,True
+FCN_09185_edo_bini,FCN_09185,edo_bini,"I sẹtin ru otọ mwẹ amẹ kevbe nẹ I kọ itomato kevbe asikọ (pepper) vbe ẹdẹ okpa vbe Rafin Zurfi, Bauchi, Nigeria?",soil_management,crop_cultivation,False
+AQA_00115_edo_bini,AQA_00115,edo_bini,Vbọ rre iruẹmwin nẹ ẹkọ emila nọ rre ọghẹe na ru?,out_of_scope,out_of_scope,True
+AQA_00117_edo_bini,AQA_00117,edo_bini,De vbene emila sẹtin ya ru amẹ-evbọ (milk) bún hẹ?,out_of_scope,out_of_scope,True
+AQA_00140_edo_bini,AQA_00140,edo_bini,Fie ẹgbẹ emila amẹ-evbọ (dairy cattle) eke-eke.,out_of_scope,out_of_scope,True
+AQA_00304_edo_bini,AQA_00304,edo_bini,Vbọ zẹ nẹ Livestock khẹke nẹ iran mie ikhunmwun-egbe aranmwẹn (veterinary care) nọ khẹke?,out_of_scope,out_of_scope,True
+AQA_00653_edo_bini,AQA_00653,edo_bini,Ẹghẹ vbọ na sẹ nẹ a ya lele ikun-oka nẹ ọ na mwẹ emwin nọ ru egbe maan nẹ ọmwa na rri?,out_of_scope,harvesting,False
+FCN_00364_edo_bini,FCN_00364,edo_bini,"De vbene ẹghẹ akpọ nọ rre Shendam vbe ẹghẹ na na ya ru erhanmwen ticks vbe egbe ohuan kevbe ewu mẹ hẹ, kevbe de odẹ ikọkọ nẹ I khẹke nẹ I lọghọ?",out_of_scope,out_of_scope,True
+FCN_00798_edo_bini,FCN_00798,edo_bini,"De iruẹmwin ikọkọ nẹ a ru vbe emianmwen fowlpox disease vbe egbe ọkhọkhọ, kevbe de vbene I sẹtin ya kọkọ ẹre nẹ ọ ghẹ kpe?",out_of_scope,disease_management,False
+FCN_01632_edo_bini,FCN_01632,edo_bini,"De odẹ nẹ I sẹtin lọghọ ya kọkọ emianmwen ẹhọ (respiratory issues) vbe ewu vbe Port Harcourt, Nigeria?",out_of_scope,out_of_scope,True
+FCN_04878_edo_bini,FCN_04878,edo_bini,"De odẹ emwin-erri (feed formula) nẹ a rhiẹ irhiẹmwin nẹ ifi-egbe emila (fattening cows) vbe Rogo, Kano, Nigeria?",out_of_scope,out_of_scope,True
+FCN_06003_edo_bini,FCN_06003,edo_bini,"De iruẹmwin nọ maan sẹ nẹ irie-esẹ kevbe irhiẹ-emwin-erri ọkhọkhọ vbe Lokoja, Kogi, Nigeria?",out_of_scope,out_of_scope,True
+FCN_06836_edo_bini,FCN_06836,edo_bini,De emwin-erri (feed mix) nẹ I khẹke nẹ I lọghọ nẹ noilers mẹ nẹ ọ na ru nẹ iran yẹ ekẹn bún vbe Oyo?,out_of_scope,out_of_scope,True
+FCN_07659_edo_bini,FCN_07659,edo_bini,De vbene I sẹtin ya fiẹweriẹ owa ewu nẹ ọ na fua nẹ iran vbe ẹghẹ ọhọnmwẹn vbe Gwarinpa hẹ?,out_of_scope,out_of_scope,True
+FCN_07669_edo_bini,FCN_07669,edo_bini,De iruẹmwin nẹ I sẹtin ru nẹ I kọkọ emianmwen nọ rhiẹre hin ọhọnmwẹn vbe ewu mẹ vbe ẹghẹ ọhọnmwẹn vbe Gwarinpa?,out_of_scope,out_of_scope,True
+FCN_07675_edo_bini,FCN_07675,edo_bini,De vbene I sẹtin ya ru owa ewu mẹ maan nẹ ọ kọkọ iran esẹ hin heat stress hẹ?,out_of_scope,out_of_scope,True
+FCN_08775_edo_bini,FCN_08775,edo_bini,"De ẹghẹ nẹ I khẹke nẹ I gbe ikhunmwun-egbe (vaccinate) nẹ noilers kevbe turkeys mẹ nẹ I kọkọ emianmwen vbe Giginyu, Giginyu, Nassarawa, Kano State, Nigeria?",out_of_scope,out_of_scope,True

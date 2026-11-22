@@ -1,0 +1,9 @@
+﻿translation_unit_type,primary_intent,record_count
+bilingual_qa,crop_cultivation,17
+bilingual_qa,disease_management,40
+bilingual_qa,fertilizer_application,40
+bilingual_qa,harvesting,33
+bilingual_qa,irrigation,32
+bilingual_qa,pest_management,25
+bilingual_qa,soil_management,44
+question_only_classifier,out_of_scope,75

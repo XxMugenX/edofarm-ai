@@ -1,0 +1,56 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "nigeria",
+  "dataset_name": "farmerchat-queries",
+  "dataset_size": 27061119,
+  "description": "",
+  "download_size": 11781721,
+  "features": {
+    "crop": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "user_country": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "user_geo_level2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "user_geo_level3": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "query_year_month": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "query": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 38842840,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 27061119,
+      "num_examples": 11541,
+      "dataset_name": "farmerchat-queries"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

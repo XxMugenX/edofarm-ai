@@ -1,0 +1,43 @@
+{
+    "record_id": "AQA_00172",
+    "original_intent": "soil_management",
+    "edo_question": "Fie ẹmwẹ yọ vbe emwin nọ rre iruẹmwin nẹ a ru vbe otọ (soil management activities).",
+    "result": {
+        "timestamp": "2026-11-21T21:06:47.837180+00:00",
+        "question": "Fie ẹmwẹ yọ vbe emwin nọ rre iruẹmwin nẹ a ru vbe otọ (soil management activities).",
+        "response_language": "Edo (Bini)",
+        "classifier": {
+            "model": "EdoFarm Intent Classifier v1.0.0",
+            "predicted_intent": "soil_management",
+            "top_three": [
+                {
+                    "intent": "soil_management",
+                    "model_probability": 0.3325
+                },
+                {
+                    "intent": "out_of_scope",
+                    "model_probability": 0.1706
+                },
+                {
+                    "intent": "fertilizer_application",
+                    "model_probability": 0.1394
+                }
+            ],
+            "probability_is_calibrated": false
+        },
+        "conversational_model": {
+            "model": "gemini-3.8-flash",
+            "status": "completed",
+            "response": "Kóyo rre. Iruẹmwin nọ dekaan otọ ugbo (soil management) keghi re emwin kpataki ne emwin nọ rre ugbo mieke na gba sẹsẹ. \n\nEmwin eso nọ rre uwu iruẹmwin nẹ a ru vbe otọ keghi re:\n\n1. **Ekhue otọ (Soil cultivation/ploughing):** Ẹkpo otọ vbe ọghọghọ nọ ya afiẹmwẹn (air) kevbe amẹ sẹ uwu otọ sẹsẹ, nọ gbe ikpakpa otọ nọ khọla ro.\n2. **Ero vbọ ne amẹ gbera (Drainage):** E lele otọ vbe aro nọ ma gbe amẹ da vbe otọ, nọ ma ghi zẹe nẹ orere gbe ifẹnẹn emwin nẹ a kọ.\n3. **Ekhue ebe kevbe ebe ikun yi otọ (Mulching):** E ya ebe ikun ra ẹrọnmwọn kpe otọ egbe, nọ ma ghi zẹe nẹ ovbẹn ya amẹ fo vbe otọ, ọ ghi vbe dọlọ otọ yi.\n4. **Iruemwi evbavbaro (Crop rotation):** E fi emwin nẹ a kọ roro vbe otọ vbe ẹghẹ sọrọ-sọrọ, nọ ma ya emwin vbọ gbe otọ sẹ.\n\nRhunmwuda mian ma gha mwẹ amẹ aro ebe EdoFarm nọ khọ vbe ukpẹvbo na, I ma gha sẹtin gi ẹ mwẹ ọnọran nọ dekaan iku-otọ (fertilizer rates) ra chemicals nọ sẹ ẹghẹ na.\n\nDe emwin nọ ya ru ugbo nẹ u gualọ nẹ u kọ, kevbe de vbene otọ ugbo ruẹ ye he? \n\nGha rre nẹ u gualọ igiẹmwin nọ gba sẹsẹ dekaan otọ ugbo ruẹ vbe Edo State, eguọmọ ugbo (agricultural extension officers) nọ rre orere ruẹ keghi re emwan nọ khẹke nẹ u guan gbe.",
+            "usage": {
+                "input_tokens": 898,
+                "output_tokens": 536
+            }
+        },
+        "knowledge_retrieval": {
+            "enabled": false,
+            "reason": "No approved agricultural knowledge passages are currently available."
+        }
+    },
+    "translation_validation": "pending_native_speaker_review"
+}
