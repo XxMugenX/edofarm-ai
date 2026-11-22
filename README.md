@@ -367,134 +367,55 @@ files and folders present in the repository.
 
 ## ❓ Frequently Asked Questions
 
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-Is EdoFarm AI a fine-tuned small language model?
-```{=html}
-</summary>
-```
-Not at the current stage. The implemented system uses a lightweight
-intent classifier together with Gemini Flash for response generation.
-Fine-tuning a domain-specific language model may be explored later, but
-it should not be described as completed work.
+<summary>Is EdoFarm AI a fine-tuned small language model?</summary>
 
-```{=html}
+Not at the current stage. The implemented system uses a lightweight intent classifier together with Gemini Flash for response generation. Fine-tuning a domain-specific language model may be explored later, but it should not be described as completed work.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-Does the intent classifier generate answers?
-```{=html}
-</summary>
-```
-No. The classifier predicts the category of a question, such as
-`soil_management` or `disease_management`. Gemini Flash generates the
-conversational answer. The classifier is used for routing and scope
-handling, not as the answer-generation model.
+<summary>Does the intent classifier generate answers?</summary>
 
-```{=html}
+No. The classifier predicts the category of a question, such as `soil_management` or `disease_management`. Gemini Flash generates the conversational answer. The classifier is used for routing and scope handling, not as the answer-generation model.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-Why use word and character n-grams instead of BPE?
-```{=html}
-</summary>
-```
-Word and character TF-IDF n-grams provide a lightweight baseline that
-can be trained with the available dataset. A dedicated BPE tokenizer
-could be useful in the future, but training a meaningful Edo-specific
-tokenizer requires a larger and better-curated Edo-language corpus and
-input from fluent speakers.
+<summary>Why use word and character n-grams instead of BPE?</summary>
 
-```{=html}
+Word and character TF-IDF n-grams provide a lightweight baseline that can be trained with the available dataset. A dedicated BPE tokenizer could be useful in the future, but training a meaningful Edo-specific tokenizer requires a larger and better-curated Edo-language corpus and input from fluent speakers.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-Are the Edo (Bini) translations human-verified?
-```{=html}
-</summary>
-```
-No. The current translations were generated with Gemini and remain
-provisional. Human review by fluent Edo (Bini) speakers is planned.
-Until then, the translations should not be presented as verified or
-fully representative of natural Edo speech.
+<summary>Are the Edo (Bini) translations human-verified?</summary>
 
-```{=html}
+No. The current translations were generated with Gemini and remain provisional. Human review by fluent Edo (Bini) speakers is planned. Until then, the translations should not be presented as verified or fully representative of natural Edo speech.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-Does EdoFarm AI use RAG?
-```{=html}
-</summary>
-```
-Not yet. Agricultural documents have been identified and some have been
-downloaded, but document extraction and verification are incomplete. The
-approved knowledge-passage count is currently zero. Retrieval should
-only be activated after the passages have been checked and approved.
+<summary>Does EdoFarm AI use RAG?</summary>
 
-```{=html}
+Not yet. Agricultural documents have been identified and some have been downloaded, but document extraction and verification are incomplete. The approved knowledge-passage count is currently zero. Retrieval should only be activated after the passages have been checked and approved.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-Can farmers rely on the answers as professional agricultural advice?
-```{=html}
-</summary>
-```
-No. This is a research prototype. Gemini can make mistakes, and the
-current dataset has not been comprehensively validated by agricultural
-experts. The assistant should provide general information, communicate
-uncertainty and refer high-risk or uncertain cases to qualified
-agricultural extension professionals.
+<summary>Can farmers rely on the answers as professional agricultural advice?</summary>
 
-```{=html}
+No. This is a research prototype. Gemini can make mistakes, and the current dataset has not been comprehensively validated by agricultural experts. The assistant should provide general information, communicate uncertainty and refer high-risk or uncertain cases to qualified agricultural extension professionals.
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-How can the application be deployed?
-```{=html}
-</summary>
-```
-The intended approach is to serve the classifier and Gemini integration
-through a secure backend API. The API key must remain server-side. The
-exact deployment configuration will depend on the final backend and
-hosting environment.
+<summary>How can the application be deployed?</summary>
 
-```{=html}
+The intended approach is to serve the classifier and Gemini integration through a secure backend API. The API key must remain server-side. The exact deployment configuration will depend on the final backend and hosting environment.
+
 </details>
-```
+
 ## 📚 References and Resources
 
 -   [FarmerChat Nigeria dataset --- Hugging
